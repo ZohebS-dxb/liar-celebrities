@@ -48,7 +48,7 @@ function QuestionPage() {
 
   const handleNextQuestion = async () => {
     const db = getDatabase();
-    const repoName = "liar-hand"; // ← Change per repo
+    const repoName = "liar-celebrities"; // ← Change per repo
     const gameKey = getGameKey(repoName);
     const seenRef = ref(db, gameKey);
 
