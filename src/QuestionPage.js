@@ -85,7 +85,8 @@ function QuestionPage() {
         <>
           <img src="/imposter.jpg" alt="Imposter" className="w-64 h-64 mb-4 rounded-full shadow-lg" />
           <h1 className="text-xl font-semibold text-white max-w-md">
-            Shh… You’re the IMPOSTER. They know the signal. You don’t. Fake it. Time it. Don’t blow your cover. Raise your hand when the countdown ends. Or dont.
+            Shh… You’re the IMPOSTER. They have the cue — you do not. Pretemd you know who they are talking about. If they vote you but you can guess who it is, you win the point!
+
 
 
           </h1>
